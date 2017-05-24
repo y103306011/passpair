@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/drawable-v23/abc_control_background_material.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]

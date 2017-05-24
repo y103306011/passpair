@@ -2,85 +2,445 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/TommyLin/Desktop/PassPair-2/app/libs/PhotoUtil.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\7411514c1a7abb2f5f3c84a0c391822f89c79dab\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="caf49e92eae4ca2805d530a92cb4777c1ef53f53">
-        <dex dex="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/transforms/dex/debug/folders/1000/2/PhotoUtil_cf070bd03dec67578e5cff9b19fbe4da6dfae9ef/classes.dex" />
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_2bacf3678618588acdc36850074823cc8f600dbe.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/TommyLin/.android/build-cache/bb73a65ac7f78af106bb9487bfe98b223921bcaa/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\253027a2399a0f967ea763b18aff8e77c027cf61\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_385095217d7d7a61a09ccf7094d1a2eb93b4e52c/classes.dex" />
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_e4b6016e931fe922e5b0f0a0791829c5e68003c2.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/TommyLin/.android/build-cache/0f40da09b774b700e71ab202cbceb51abb4185c3/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\76fc6fce9bf2ae5af7bf1c666a85130e89920a98\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
-        <dex dex="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9be1f983ce9f2e7f1e120cc91b45d995ef8e4e8f/classes.dex" />
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_fa424cd2d78e16cf4717feed3ea05be38f93e4fa.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/TommyLin/.android/build-cache/4d4fd7e578d18fb357e99529eb49c140efd18a01/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\ebcbeea94aa4f61750af1ab4bea0fb0537019f20\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88f1401b91addc5e086a57065b5017c96c4e2b34/classes.dex" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3f8a69136f20b6099c82d58d342d7b2e026f7ac3.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/TommyLin/.android/build-cache/72f554dd483385a3b1518badcbe56779e2d539dc/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\5dd115c7fb53fd7f453ca8109c1c93469cba803c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_3f03d82dd21bb6ed5ea089bfcb7d1994ebf06609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\96b7e48b3206b6e09a44c7a8841e6e1e73431518\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_667f9e309acf343cbfe22b411a3012db5285311e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\694b0af04dd42feae1e46311f4dbb32cb66cbec8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_ec55f231ac6441ad2aecb75ed34e42d40ffa5553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\3cf060aca2a17f40a6492aa68fc2aac519aed9fc\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee59b4468d1f5586d5521ffa675012d7628304bb/classes.dex" />
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_01c25ef589fd2782af2854bad62cbd961efcfe3e.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Public\Documents\app\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2d529215ef7e8c8c820f50f77f370bb7a4376d6c/classes.dex" />
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_8b9e2ce8d27dbbe856fc0486bdf3373d6c8cd459.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\2831b78ef59f2c8e7018f185f655a759f74c140a\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="cce1112b72743d6edaf44c2fa1b8ab414b339bcf">
-        <dex dex="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9fe42e50b7be962f6d3ebe22e5df4f7f9ddef3da/classes.dex" />
+        sha1="28dd0f23d11c762c64809917057776173de5c3f1">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_15aabbe26443669b5561ce7cda8b373cc70c947e.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/TommyLin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\passpairmaster\questions\PassPair\app\libs\PhotoUtil.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caf49e92eae4ca2805d530a92cb4777c1ef53f53">
+        <dex dex="D:\passpairmaster\questions\PassPair\app\build\intermediates\pre-dexed\debug\PhotoUtil_89b9c8157dce89842d85ffda6115338410db34e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\5dd115c7fb53fd7f453ca8109c1c93469cba803c\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c8f81d604fb4faff7e97ed72be7ecbef5bc51cb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-util-cache\0.4.2\4aa590f2a44d49444dcd3bb082017bf0b46f2ff7\jxmpp-util-cache-0.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4aa590f2a44d49444dcd3bb082017bf0b46f2ff7">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\jxmpp-util-cache-0.4.2_a3a73fb638e582d86e9b21ae88c475fb1f2097cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\Documents\app\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0fb68d0b37c7d40c2e714168cbbbba9150835d5f/classes.dex" />
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dfd0ce925119b95f7dbbb26ea0045bdcedaa894f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/TommyLin/.android/build-cache/11e1924fb43e269749be38a04ab796c5ba06e69e/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-core\0.4.2\a4c8ce09be6ec90479be74290e381de4288c9569\jxmpp-core-0.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4c8ce09be6ec90479be74290e381de4288c9569">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\jxmpp-core-0.4.2_b14d4af7dec9fe7a797587464469c7dc0ee84fe2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\3aed454b81e008ce9f4bce294fe5a876326ae3d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_e2d963bfbaf5250c693ebd2a003605fc920ecebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_24032db0908b8b9e92a13470a9c9521db534e5a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\e275c8ad3c6b03d0406b7ee6c21fd042983d199a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_8765ae84e3db23e6d5906e92180d61c40c140c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\db6194494b87a96eb3b0206a04426a05c2c2551b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_02195846a45beda6ae33cff11adbb86965c0155a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\ded25e33252fc1beb7b72c5eaff497484b4b8475\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_785b8d2c697c794639413496af04d628f31a17f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\ca4b4200d27385085266f82e8db9f602cbfc8691\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_48b6e49ea2da1ff1769c75bd9156dff481db4cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\ef54434507a5f0c0976e859b2d10cbe4d5450a37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d43996b174110ff7d6f34f369dfa22d1411c0716">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_572559d6bda66e880034b9b42ccb05b08c1b9c8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\a2119ea032d80de4d6e816f1b966931dbb086839\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_280dd066833434791d3839a163e60631eee23bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\ebcbeea94aa4f61750af1ab4bea0fb0537019f20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_f5621bcdd62f7d3d4dbc9b859826a99ef4e5d55b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\7d66aa7c3a459f2d75cfbe9ed79479052dd20c43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810a8b975520117891c722e6ac6931efeb15c963">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_b54ee03a861026fab96ce0ad53142d9070794459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\f936fe4b0b07dbdb1392d2d5005ccaaf71c2ba1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_9d59d074fb901a1f86cca645fe4850f165c4e6db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\3b28523754b51e5d4494fe3f58451161e17b35cb\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="c4e65d46b09bd2156ad6fdf147d08b17c0fef75c">
-        <dex dex="/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8fca3875800d381715f70717222612d70b632e08/classes.dex" />
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_b46cd6b29c13660bd43cc07bf1da52874b92fb45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\a2119ea032d80de4d6e816f1b966931dbb086839\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_905ea0c2aeefa9fdf6d52e787a39000a0ee85a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\f2600bb3feb951c741be58b75e85ffa43f394454\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_2a1961fbfcbf4047f15d2a3e984685a74fb3f955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\451418036fec985dc3e4d6d1651b835db4eb2951\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_cb5464af59a36ac33735bf828045f18d875c03aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.gradle\caches\modules-2\files-2.1\de.measite.minidns\minidns\0.1.7\993582d1455b93a5723d2af4b39d8679735b3550\minidns-0.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\minidns-0.1.7_f3e73b593d16b404d911fca81c677371a8c39a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\f719907f3f6f8bfcced640c8a7aba57908d4d4df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_9971c43f5170cb037075b3a7ff43df6fc33a45d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\7af0593d1b053d9598877c2532114c4c6a656e4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_4b5dedf86f66c0ca18c6670dfc45f9ddeed7b8be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\c4fa3727cb73b2e473489ec1c0e3351fb9aac63b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_e8b7e30652481fdb5f8c82f1664bd5ddffd4cc21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\5cf6b1deca08f5cf92261be0c08e6f2aaa31ce30\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8200b67e0e008088ae7b260c6d440b0389e0dd7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\passpairmaster\Phone\PassPair\app\libs\PhotoUtil.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caf49e92eae4ca2805d530a92cb4777c1ef53f53">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\PhotoUtil_b515d6b7b7fbedc019b55241f1c157735d6382ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\5ece1792520a72fb9d69b4986d02c43f08253d47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_cce5558f5318a09d2b18ca4d6dbb2f8ee3e1cc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\924a7770a1f5db18843f9ee3882839f499aae4ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_48762c36beec2e53e7e73b7b2a0a4ead4f81b075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\5cf6b1deca08f5cf92261be0c08e6f2aaa31ce30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_cba813fdb6cc64c5db0ccfc8721eb450ac184f6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\88847a5761828148d178b7f3a86db895cf332a9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_60ca29543373bd2c0131bc4cc8e79b29f3637848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\4adb4523c808c24d25b5b8a93dea3dfc40def5a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_e28ac2959084e4971c2c7f49f7317fb41f57e63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\268cddfe25567ff580fb99f559385864c96c23f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d43996b174110ff7d6f34f369dfa22d1411c0716">
+        <dex dex="D:\passpairmaster\questions\PassPair\app\build\intermediates\pre-dexed\debug\classes_abcc84ce0de20510bfffd202863683df9361e9db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\fac4eeeb33ae6299bfa443ccf0d7aa51915980bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_e2b4d8e4f58ce6fbecce14c5300cfc0e9f0f854d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\db6194494b87a96eb3b0206a04426a05c2c2551b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9b628fbb013b6bdd5cd21bf2ed7e203b685b1575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\e45520b573855e0904f1f0f57c8f0f3260010b76\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49cfe618ead4198c63130e6f6c82e1dd213af3b3">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_5b2ad708c9df7cf5a9502c145b569d889650320b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\a0c52c70d6962580ba2e342a14d7c3f5be3f8e43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_3b06b635fdd0d4e99d393882cb53328febaf5b0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\gson-2.3_2cf4cb44fa104fc0bf0b7c92c0851349dc79c243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\a1780f245da7bbc6e53d576077b55c54ba8b9ac2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_9c56b54e3183dc1d73a5717c3fcc45b2cdbf2f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\楊進倫\.android\build-cache\5cffb4ff0a1b6ea338101d1df58e7e327f935bf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7640cb27a27ed97bf5f9f808e9cf57cf8df56a63">
+        <dex dex="D:\passpairmaster\Phone\PassPair\app\build\intermediates\pre-dexed\debug\classes_146def8547187d68d27c279edc1b468a6fd050a8.jar" />
     </item>
 
 </items>

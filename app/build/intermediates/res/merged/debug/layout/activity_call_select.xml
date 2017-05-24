@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.nccu.mis.passpair.RandomCall.CallSelectActivity">
+
+    <Spinner
+        android:id="@+id/call_select_age_spinner"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="106dp"
+        android:layout_below="@+id/call_select_age"
+        android:layout_alignLeft="@+id/call_select_match_spinner"
+        android:layout_alignStart="@+id/call_select_match_spinner"
+        android:layout_marginTop="18dp" />
+
+    <Spinner
+        android:id="@+id/call_select_match_spinner"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="163dp"
+        android:layout_marginTop="31dp"
+        android:layout_below="@+id/call_select_match"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/call_select_age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="請選擇年齡"
+        android:textSize="24sp"
+        android:layout_marginTop="39dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/call_select_age_spinner"
+        android:layout_alignStart="@+id/call_select_age_spinner" />
+
+    <TextView
+        android:id="@+id/call_select_match"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="請選擇契合度"
+        android:textSize="24sp"
+        android:layout_marginTop="28dp"
+        android:layout_below="@+id/call_select_age_spinner"
+        android:layout_alignLeft="@+id/call_select_match_spinner"
+        android:layout_alignStart="@+id/call_select_match_spinner" />
+
+    <Button
+        android:id="@+id/call_select_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="35dp"
+        android:text="Start"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:background="#BDBDBD"
+        android:layout_below="@+id/call_select_match_spinner"
+        android:layout_alignLeft="@+id/call_select_match_spinner"
+        android:layout_alignStart="@+id/call_select_match_spinner"
+        android:layout_alignRight="@+id/call_select_match_spinner"
+        android:layout_alignEnd="@+id/call_select_match_spinner" />
+
+</RelativeLayout>

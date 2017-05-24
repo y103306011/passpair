@@ -55,8 +55,8 @@
                 android:id="@+id/txtFriendsHome"
                 android:text="10  Posts"
                 android:layout_alignTop="@+id/txtPostsHome"
-                android:layout_alignRight="@+id/button"
-                android:layout_alignEnd="@+id/button"
+                android:layout_alignRight="@+id/call_dial_btn"
+                android:layout_alignEnd="@+id/call_dial_btn"
                 android:layout_marginRight="39dp"
                 android:layout_marginEnd="34dp" />
             <Button
@@ -64,7 +64,7 @@
                 android:layout_height="20dp"
                 android:layout_marginTop="10dp"
                 android:layout_toRightOf="@+id/txtNameHome"
-                android:id="@+id/button"
+                android:id="@+id/call_dial_btn"
                 android:background="@drawable/btn_edit_home"
                 android:text="edit" />
             <TextView

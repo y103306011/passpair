@@ -5,12 +5,17 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.Toast;
+
+import com.sinch.android.rtc.Sinch;
+
+import edu.nccu.mis.passpair.RandomCall.CallSelectActivity;
 
 
 /**
@@ -74,12 +79,22 @@ public class ManuFragment extends Fragment {
 
         final String MyUID = this.getArguments().getString("ManuUID").toString();
 
+
         ImageButton call = (ImageButton)v.findViewById(R.id.callmanuhome);
         call.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 // do something.
                 Toast.makeText(view.getContext(), "這是一個Toast......", Toast.LENGTH_LONG).show();
+                Intent intentCall = new Intent();
+
+                //以bundle物件進行打包
+                Bundle bundle=new Bundle();
+                bundle.putString("UID", MyUID);
+                intentCall.putExtras(bundle);
+
+                intentCall.setClass(getActivity(),CallSelectActivity.class);
+                startActivity(intentCall);
 
             }
         });
@@ -101,9 +116,6 @@ public class ManuFragment extends Fragment {
 
                 intentMatch.setClass(getActivity(),Match.class);
                 startActivity(intentMatch);
-
-
-
             }
         });
 

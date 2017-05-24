@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.nccu.mis.passpair.Chat.ChatDialogActivity">
+    <ListView
+        android:id="@+id/lstChatDialogs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+    <!--app:layout_anchor - 设置FAB的锚点，即以哪个控件为参照点设置位置。-->
+    <!--app:layout_anchorGravity - 设置FAB相对锚点的位置，值有 bottom、center、right、left、top等。-->
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/chatdialog_adduser"
+        android:layout_gravity="bottom|right"
+        app:backgroundTint="@color/colorPrimaryDark"
+        android:layout_margin="16dp"
+        android:src="@drawable/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_anchor="@id/lstChatDialogs"
+        app:layout_anchorGravity="bottom|right|end"/>
+</android.support.design.widget.CoordinatorLayout>

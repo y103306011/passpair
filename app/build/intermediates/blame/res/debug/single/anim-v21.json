@@ -1,26 +1,38 @@
 [
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/TommyLin/.android/build-cache/8717ac0a8db78f91a3a7b9bbe5517db813e61670/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/TommyLin/.android/build-cache/8717ac0a8db78f91a3a7b9bbe5517db813e61670/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
-        "source": "/Users/TommyLin/.android/build-cache/8717ac0a8db78f91a3a7b9bbe5517db813e61670/output/res/anim-v21/design_appbar_state_list_animator.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     }
 ]

@@ -1,46 +1,86 @@
 [
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\passpairmaster\\Phone\\PassPair\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\passpairmaster\\questions\\PassPair\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/drawable-v21/img1.jpg",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/app/src/main/res/drawable-v21/img1.jpg"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bheart1.png",
+        "source": "D:\\passpairmaster\\PassPair\\app\\src\\main\\res\\drawable-v21\\bheart1.png"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bheart1.png",
+        "source": "D:\\passpairmaster\\Phone\\PassPair\\app\\src\\main\\res\\drawable-v21\\bheart1.png"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\img1.jpg",
+        "source": "D:\\passpairmaster\\questions\\PassPair\\app\\src\\main\\res\\drawable-v21\\img1.jpg"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rheart.png",
+        "source": "D:\\passpairmaster\\Phone\\PassPair\\app\\src\\main\\res\\drawable-v21\\rheart.png"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/drawable-v21/bheart1.png",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/app/src/main/res/drawable-v21/bheart1.png"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\passpairmaster\\PassPair\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/drawable-v21/rheart.png",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/app/src/main/res/drawable-v21/rheart.png"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rheart.png",
+        "source": "D:\\passpairmaster\\PassPair\\app\\src\\main\\res\\drawable-v21\\rheart.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\img1.jpg",
+        "source": "D:\\passpairmaster\\Phone\\PassPair\\app\\src\\main\\res\\drawable-v21\\img1.jpg"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\img1.jpg",
+        "source": "D:\\passpairmaster\\PassPair\\app\\src\\main\\res\\drawable-v21\\img1.jpg"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\bheart1.png",
+        "source": "D:\\passpairmaster\\questions\\PassPair\\app\\src\\main\\res\\drawable-v21\\bheart1.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rheart.png",
+        "source": "D:\\passpairmaster\\questions\\PassPair\\app\\src\\main\\res\\drawable-v21\\rheart.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     }
 ]

@@ -63,12 +63,12 @@ public class HomePage extends AppCompatActivity
                 // whenever data at this location is updated.
 
                 String n = dataSnapshot.child("基本資料").child("暱稱").getValue(String.class);
-                String uri = dataSnapshot.child("img").getValue(String.class);
+//                String uri = dataSnapshot.child("img").getValue(String.class);
+                String url = dataSnapshot.child("基本資料").child("大頭照").getValue(String.class);
                 Log.d("TAG", "Value is: " + n);
 
                 name.setText(n);
-                Picasso.with(getApplicationContext()).load(uri).into(img);
-
+                Picasso.with(getApplicationContext()).load(url).into(img);
             }
 
             @Override
@@ -115,7 +115,7 @@ public class HomePage extends AppCompatActivity
                 }else if (menuItemId == R.id.bottom_manu){
                     ManuFragment manuFragment = new ManuFragment();
 
-                    Bundle bundleManu=new Bundle();
+                    Bundle bundleManu = new Bundle();
                     bundleManu.putString("ManuUID",HomeUID);
                     manuFragment.setArguments(bundleManu);
 

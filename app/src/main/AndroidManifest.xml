@@ -4,6 +4,10 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -67,6 +71,13 @@
             android:name=".FriendMail"
             android:label="@string/title_activity_friend_mail"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Chat.ChatDialogActivity" />
+        <activity android:name=".Chat.ListUsersActivity" />
+        <activity android:name=".Chat.ChatMessageActivity" />
+        <activity android:name=".RandomCall.CallSelectActivity" />
+        <activity android:name=".RandomCall.CallMainActivity" />
+        <activity android:name=".RandomCall.QuestionRandomActivity" />
+        <activity android:name=".RandomCall.QuestionConfirmActivity"></activity>
     </application>
 
 </manifest>

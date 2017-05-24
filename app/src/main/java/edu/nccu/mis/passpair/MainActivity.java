@@ -13,8 +13,14 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+import com.quickblox.auth.session.QBSettings;
+
 public class MainActivity extends AppCompatActivity {
     ImageView InitRegister,InitLogin;
+    static final String APP_ID = "56869";
+    static final String AUTH_KEY = "QpumFnFvKmkz9TT";
+    static final String AUTH_SECRET = "gypmSSEMVmdc62j";
+    static final String ACCOUNT_KEY = "j1MhWQ2zAq66YGo2ca3Z";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
             ActivityCompat.requestPermissions(MainActivity.this, new String[]{android.Manifest.permission.READ_EXTERNAL_STORAGE}, 1);
         } else {
         }
+        QBSettings.getInstance().init(getApplicationContext(),APP_ID,AUTH_KEY,AUTH_SECRET);
+        QBSettings.getInstance().setAccountKey(ACCOUNT_KEY);
 
     }
     View.OnClickListener btnListener = new Button.OnClickListener(){

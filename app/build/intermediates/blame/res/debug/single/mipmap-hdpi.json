@@ -1,6 +1,14 @@
 [
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\passpairmaster\\questions\\PassPair\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\passpairmaster\\PassPair\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\passpairmaster\\Phone\\PassPair\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]

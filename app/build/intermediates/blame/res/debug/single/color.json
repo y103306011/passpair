@@ -1,162 +1,254 @@
 [
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/Users/TommyLin/.android/build-cache/8717ac0a8db78f91a3a7b9bbe5517db813e61670/output/res/color/design_error.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\451418036fec985dc3e4d6d1651b835db4eb2951\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\color\\design_error.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_search_url_text.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\451418036fec985dc3e4d6d1651b835db4eb2951\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_tint_default.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\451418036fec985dc3e4d6d1651b835db4eb2951\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_default.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\451418036fec985dc3e4d6d1651b835db4eb2951\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_search_url_text.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_tint_switch_track.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/TommyLin/.android/build-cache/5ebb38e623e105f9582f6535615f3dfb5884966f/output/res/color/common_google_signin_btn_text_light.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/TommyLin/.android/build-cache/5ebb38e623e105f9582f6535615f3dfb5884966f/output/res/color/common_google_signin_btn_text_dark.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_edittext.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_tint_switch_thumb.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_spinner.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_tint_spinner.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_tint_edittext.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/switch_thumb_material_light.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\451418036fec985dc3e4d6d1651b835db4eb2951\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "/Users/TommyLin/Desktop/PassPair-2/D:\\103306011\\App\\PassPair\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/TommyLin/.android/build-cache/19bb42438fdd25ef37055a51158b206bdcfb06f6/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "/Users/TommyLin/Desktop/PassPair-2/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
-        "source": "/Users/TommyLin/.android/build-cache/8717ac0a8db78f91a3a7b9bbe5517db813e61670/output/res/color/design_tint_password_toggle.xml"
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\451418036fec985dc3e4d6d1651b835db4eb2951\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f2600bb3feb951c741be58b75e85ffa43f394454\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\Phone\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\questions\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\passpairmaster\\PassPair\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\楊進倫\\.android\\build-cache\\f719907f3f6f8bfcced640c8a7aba57908d4d4df\\output\\res\\color\\switch_thumb_material_dark.xml"
     }
 ]

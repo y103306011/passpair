@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question1">請您選出對自己而言，什麼角色比較看重？</string>
+    <string-array name="question1">
+        <item>父母</item>
+        <item>兄弟姊妹</item>
+        <item>自己</item>
+        <item>愛人</item>
+    </string-array>
+
+    <string name="question2">您會如何撒謊？</string>
+    <string-array name="question2">
+        <item>會為了討人喜歡而撒謊</item>
+        <item>會以認真的態度說謊</item>
+        <item>有撒謊時喜歡找代罪羔羊的傾向</item>
+        <item>不善於說謊</item>
+    </string-array>
+
+    <string name="question3">您對於愛情的看法及態度？</string>
+    <string-array name="question3">
+        <item>眼光高而且很挑</item>
+        <item>愛情觀一切隨緣</item>
+        <item>愛情觀濫情</item>
+        <item>愛情觀很專一</item>
+    </string-array>
+
+    <string name="question4">請您選出在選擇另一半時，最重要的條件為何？</string>
+    <string-array name="question4">
+        <item>健康</item>
+        <item>內涵</item>
+        <item>外表</item>
+        <item>財富</item>
+    </string-array>
+
+    <string name="question5">您認為自己是甚麼類型的人？您又希望您的另一半是甚麼類型的人？</string>
+    <string-array name="question5">
+        <item>理性、理性</item>
+        <item>理性、感性</item>
+        <item>感性、理性</item>
+        <item>感性、感性</item>
+    </string-array>
+
+    <string name="question6">您認為自己是甚麼類型的人？您又希望您的另一半是甚麼類型的人？</string>
+    <string-array name="question6">
+        <item>外向、外向</item>
+        <item>外向、內向</item>
+        <item>內向、外向</item>
+        <item>內向、內向</item>
+    </string-array>
+
+    <string name="question7">您會選擇甚麼類型的事來度過假日？</string>
+    <string-array name="question7">
+        <item>運動</item>
+        <item>娛樂</item>
+        <item>美食</item>
+        <item>逛街</item>
+    </string-array>
+
+    <string name="question8">請您列出心目中，哪個最為重要？</string>
+    <string-array name="question8">
+        <item>事業</item>
+        <item>愛情</item>
+        <item>親情</item>
+        <item>友情</item>
+    </string-array>
+
+    <string name="question9">您認為自己是什麼樣的人？您又希望您的另一半是什麼樣的人？</string>
+    <string-array name="question9">
+        <item>以事為主、以事為主</item>
+        <item>以事為主、以人為主</item>
+        <item>以人為主、以事為主</item>
+        <item>以人為主、以人為主</item>
+    </string-array>
+
+    <string name="question10">您認為自己是什麼樣的人？您又希望您的另一半是什麼樣的人？</string>
+    <string-array name="question10">
+        <item>主動、主動</item>
+        <item>主動、被動</item>
+        <item>被動、主動</item>
+        <item>被動、被動</item>
+    </string-array>
+
+</resources>

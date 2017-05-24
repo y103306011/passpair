@@ -23,9 +23,19 @@ import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.quickblox.auth.session.QBSettings;
+import com.quickblox.core.QBEntityCallback;
+import com.quickblox.core.exception.QBResponseException;
+import com.quickblox.users.QBUsers;
+import com.quickblox.users.model.QBUser;
 
 import java.util.HashMap;
 import java.util.Map;
+
+import static edu.nccu.mis.passpair.MainActivity.ACCOUNT_KEY;
+import static edu.nccu.mis.passpair.MainActivity.APP_ID;
+import static edu.nccu.mis.passpair.MainActivity.AUTH_KEY;
+import static edu.nccu.mis.passpair.MainActivity.AUTH_SECRET;
 
 public class Login extends AppCompatActivity {
     EditText Username,Password;
@@ -34,6 +44,7 @@ public class Login extends AppCompatActivity {
 
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -126,11 +137,26 @@ public class Login extends AppCompatActivity {
         String user = Username.getText().toString();
         String pass = Password.getText().toString();
         if (!user.isEmpty() && !pass.isEmpty()) {
+            //建立QB User型態
+            QBUser qbUser = new QBUser(user,pass);
+            //登入QB伺服器
+            QBUsers.signIn(qbUser).performAsync(new QBEntityCallback<QBUser>() {
+                @Override
+                public void onSuccess(QBUser qbUser, Bundle bundle) {
+                    Toast.makeText(getApplicationContext(),"Chat system Login Sucessfully",Toast.LENGTH_LONG).show();
+                }
+
+                @Override
+                public void onError(QBResponseException e) {
+                    //取得錯誤訊息
+                    Toast.makeText(getApplicationContext(),""+e.getMessage(),Toast.LENGTH_LONG).show();
+                }
+            });
             mAuth.signInWithEmailAndPassword(user, pass)
                     .addOnSuccessListener(new OnSuccessListener<AuthResult>() {
                         @Override
                         public void onSuccess(AuthResult authResult) {
-                            Toast.makeText(Login.this,"登入成功"+authResult.getUser().getEmail(),Toast.LENGTH_SHORT).show();
+                            Toast.makeText(Login.this,"Firebase 登入成功"+authResult.getUser().getEmail(),Toast.LENGTH_SHORT).show();
 
 
                             FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
@@ -162,6 +188,7 @@ public class Login extends AppCompatActivity {
 
                 }
             });
+
         }
 
 

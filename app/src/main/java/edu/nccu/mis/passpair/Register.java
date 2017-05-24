@@ -34,6 +34,12 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.quickblox.auth.QBAuth;
+import com.quickblox.auth.session.QBSession;
+import com.quickblox.core.QBEntityCallback;
+import com.quickblox.core.exception.QBResponseException;
+import com.quickblox.users.QBUsers;
+import com.quickblox.users.model.QBUser;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -59,6 +65,8 @@ public class Register extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
+        registerChatSession();
+
         RgUsername = (EditText) findViewById(R.id.RgUsername);
         RgPassword = (EditText) findViewById(R.id.RgPassword);
         RgConfirm = (EditText) findViewById(R.id.RgConfirm);
@@ -71,6 +79,7 @@ public class Register extends AppCompatActivity {
         int month = RgdatePicker.getMonth() + 1;
         int day = RgdatePicker.getDayOfMonth();
         RgButton.setOnClickListener(btnListener);
+
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, sexual);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         RgSexual.setAdapter(adapter);
@@ -132,6 +141,23 @@ public class Register extends AppCompatActivity {
 
         if (!email.isEmpty() && !pass.isEmpty()) {
             if(pass.equals(confirmpass)&& !Nickname.isEmpty() && !userSexual.isEmpty()){
+                QBUser qbUser = new QBUser(email,pass);
+                //設定Quickblox使用者姓名
+                qbUser.setFullName(Nickname);
+                //註冊Quickblox資料
+                QBUsers.signUp(qbUser).performAsync(new QBEntityCallback<QBUser>() {
+                    @Override
+                    public void onSuccess(QBUser qbUser, Bundle bundle) {
+                        Toast.makeText(getApplicationContext(),"Sign up successfully",Toast.LENGTH_LONG).show();
+                        finish();
+                    }
+
+                    @Override
+                    public void onError(QBResponseException e) {
+                        Toast.makeText(getApplicationContext(),"" + e.getMessage(),Toast.LENGTH_LONG).show();
+                    }
+                });
+
 
                 mAuth.createUserWithEmailAndPassword(email, pass)
                         .addOnSuccessListener(new OnSuccessListener<AuthResult>() {
@@ -141,14 +167,20 @@ public class Register extends AppCompatActivity {
 
                                 FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
                                 if (user != null) {
-
                                     // The user's ID, unique to the Firebase project. Do NOT use this value to
                                     // authenticate with your backend server, if you have one. Use
                                     // FirebaseUser.getToken() instead.
                                     String uid = user.getUid();
 
-                                    Intent intent = new Intent();
+                                    DatabaseReference myRef = database.getReference();
+                                    //製作個人基本資料
+                                    myRef.child("User").child(uid).child("基本資料").child("使用者信箱").setValue(email);
+                                    myRef.child("User").child(uid).child("基本資料").child("密碼").setValue(pass);
+                                    myRef.child("User").child(uid).child("基本資料").child("性別").setValue(userSexual);
+                                    myRef.child("User").child(uid).child("基本資料").child("生日").setValue(birth);
+                                    myRef.child("User").child(uid).child("基本資料").child("暱稱").setValue(Nickname);
 
+                                    Intent intent = new Intent();
                                     //以bundle物件進行打包
                                     Bundle bundle=new Bundle();
                                     bundle.putString("UID", uid);
@@ -157,22 +189,10 @@ public class Register extends AppCompatActivity {
                                     intent.setClass(Register.this, Photo.class);
                                     startActivity(intent);
 
-                                    DatabaseReference myRef = database.getReference();
-
-                                    //製作個人基本資料
-                                    myRef.child("User").child(uid).child("基本資料").child("使用者信箱").setValue(email);
-                                    myRef.child("User").child(uid).child("基本資料").child("密碼").setValue(pass);
-                                    myRef.child("User").child(uid).child("基本資料").child("性別").setValue(userSexual);
-                                    myRef.child("User").child(uid).child("基本資料").child("生日").setValue(birth);
-                                    myRef.child("User").child(uid).child("基本資料").child("暱稱").setValue(Nickname);
-
-
                                     //製作map所需資訊
                                     // myRef.child("Map資訊").child("其他使用者").setValue(Nickname);
                                     //移除本身多餘的資訊
-                                  //  myRef.child(uid).child("Map資訊").child("其他使用者").child(Nickname).removeValue();
-
-
+                                    //  myRef.child(uid).child("Map資訊").child("其他使用者").child(Nickname).removeValue();
 
                                 }
 
@@ -276,5 +296,18 @@ public class Register extends AppCompatActivity {
 
         }
     };
+    private void registerChatSession() {
+        QBAuth.createSession().performAsync(new QBEntityCallback<QBSession>() {
+            @Override
+            public void onSuccess(QBSession qbSession, Bundle bundle) {
+
+            }
+
+            @Override
+            public void onError(QBResponseException e) {
+                Log.e("Error",e.getMessage());
+            }
+        });
+    }
 
 }
